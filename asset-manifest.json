@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/star-wars-planets/static/css/main.1d3059f6.chunk.css",
-    "main.js": "/star-wars-planets/static/js/main.a835282f.chunk.js",
-    "main.js.map": "/star-wars-planets/static/js/main.a835282f.chunk.js.map",
+    "main.js": "/star-wars-planets/static/js/main.6eb32ac4.chunk.js",
+    "main.js.map": "/star-wars-planets/static/js/main.6eb32ac4.chunk.js.map",
     "runtime-main.js": "/star-wars-planets/static/js/runtime-main.5b761022.js",
     "runtime-main.js.map": "/star-wars-planets/static/js/runtime-main.5b761022.js.map",
     "static/js/2.a09f22ee.chunk.js": "/star-wars-planets/static/js/2.a09f22ee.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.5b761022.js",
     "static/js/2.a09f22ee.chunk.js",
     "static/css/main.1d3059f6.chunk.css",
-    "static/js/main.a835282f.chunk.js"
+    "static/js/main.6eb32ac4.chunk.js"
   ]
 }
