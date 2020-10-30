@@ -1,0 +1,53 @@
+.popup {
+    padding: 32px 24px 47px 43px;
+    width: 380px;
+    background-color: white;
+    position: absolute;
+    left: calc(50% - 235px);
+    top: calc(50% - 203px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+
+    &__background {
+        position: fixed;
+        z-index: 2;
+        background-color: rgba(0, 0, 0, 0.8);
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+    }
+
+    &__message {
+        margin-bottom: 50px;
+        font-size: 28px;
+        color: red;
+        font-family: Starjout;
+    }
+
+    &__text {
+        font-size: 24px;
+        margin: 0 auto 74px;
+        width: 525px;
+        text-align: center;
+    }
+
+    &__cancel{
+        width: 257px;
+        height: 63px;
+        border: none;
+        outline: none;
+        background-color: #D3D3D3;
+        font-size: 24px;
+        font-family: Starjedi;
+        border-radius: 15px;
+    }
+
+    &__crossDeleteButton {
+        position: absolute;
+        right: 25px;
+        top: 24px;
+    }
+}

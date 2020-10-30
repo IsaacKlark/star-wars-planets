@@ -1,24 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import './reset.css';
+import PlanetsCards from './components/PlanetsCards/PlanetsCards';
+import { Route, HashRouter } from 'react-router-dom';
+import PlanetInfo from './components/PlanetInfo/PlanetInfo';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <HashRouter>
+      <Route path="/" exact>
+        <PlanetsCards />
+      </Route>
+      <Route path="/planet">
+        <PlanetInfo />
+      </Route>
+    </HashRouter>
   );
 }
 
