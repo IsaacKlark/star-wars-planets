@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/star-wars-planets/static/css/main.1d3059f6.chunk.css",
+    "main.js": "/star-wars-planets/static/js/main.3710d892.chunk.js",
+    "main.js.map": "/star-wars-planets/static/js/main.3710d892.chunk.js.map",
+    "runtime-main.js": "/star-wars-planets/static/js/runtime-main.5b761022.js",
+    "runtime-main.js.map": "/star-wars-planets/static/js/runtime-main.5b761022.js.map",
+    "static/js/2.a09f22ee.chunk.js": "/star-wars-planets/static/js/2.a09f22ee.chunk.js",
+    "static/js/2.a09f22ee.chunk.js.map": "/star-wars-planets/static/js/2.a09f22ee.chunk.js.map",
+    "static/js/3.7b6db3b5.chunk.js": "/star-wars-planets/static/js/3.7b6db3b5.chunk.js",
+    "static/js/3.7b6db3b5.chunk.js.map": "/star-wars-planets/static/js/3.7b6db3b5.chunk.js.map",
+    "index.html": "/star-wars-planets/index.html",
+    "static/css/main.1d3059f6.chunk.css.map": "/star-wars-planets/static/css/main.1d3059f6.chunk.css.map",
+    "static/js/2.a09f22ee.chunk.js.LICENSE.txt": "/star-wars-planets/static/js/2.a09f22ee.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/star-wars-planets/static/media/background.5849b945.jpg",
+    "static/media/arrow-left.72bee785.png": "/star-wars-planets/static/media/arrow-left.72bee785.png",
+    "static/media/arrow-right.bf6c8e9a.png": "/star-wars-planets/static/media/arrow-right.bf6c8e9a.png",
+    "static/media/planet 1.jpg": "/star-wars-planets/static/media/planet 1.59222c29.jpg",
+    "static/media/planet 10.jpg": "/star-wars-planets/static/media/planet 10.09e14a34.jpg",
+    "static/media/planet 2.jpg": "/star-wars-planets/static/media/planet 2.939a9eca.jpg",
+    "static/media/planet 3.jpg": "/star-wars-planets/static/media/planet 3.b87aa626.jpg",
+    "static/media/planet 4.jpg": "/star-wars-planets/static/media/planet 4.4cafcf0e.jpg",
+    "static/media/planet 5.jpg": "/star-wars-planets/static/media/planet 5.2a7496d1.jpg",
+    "static/media/planet 6.jpg": "/star-wars-planets/static/media/planet 6.875863b0.jpg",
+    "static/media/planet 7.jpg": "/star-wars-planets/static/media/planet 7.84b6062c.jpg",
+    "static/media/planet 8.jpg": "/star-wars-planets/static/media/planet 8.906a853f.jpg",
+    "static/media/planet 9.jpg": "/star-wars-planets/static/media/planet 9.a49dc980.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b761022.js",
+    "static/js/2.a09f22ee.chunk.js",
+    "static/css/main.1d3059f6.chunk.css",
+    "static/js/main.3710d892.chunk.js"
+  ]
+}
